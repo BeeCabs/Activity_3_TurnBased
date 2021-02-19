@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Act_3_UI"
